@@ -1,2 +1,0 @@
-# Harper
-Harmonica position guide
